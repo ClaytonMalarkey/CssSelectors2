@@ -1,0 +1,12 @@
+div>h2 {
+    color:red;
+    background-color: black;
+}
+div>p {
+    color:yellow;
+    background-color: red;
+}
+h3,h4 {
+    color: white;
+    background-color: black;
+}
